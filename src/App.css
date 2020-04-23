@@ -1,0 +1,49 @@
+body {
+   
+}
+.my-flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:baseline;
+  }
+.style_div{
+
+  
+    height: 440px;
+    width: 570px;
+    margin-right: 5px;
+    padding: 25px;
+}
+
+
+.style_div1{
+    margin: 0 auto;
+}
+
+.style_hr {
+    
+    border-color: orange;
+    width: 70px;
+    
+}
+.style_h1 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+.style_h {
+    text-align: center;
+    font-size: 25px;
+}
+.style_p{
+    text-align: center;
+    color: gray
+}
+
+.style_img {
+    display: block;
+    margin: auto;
+   
+  
+}
